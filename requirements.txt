@@ -1,0 +1,9 @@
+click==8.0.3
+cmake==3.21.4
+colorama==0.4.4
+face-recognition-models==0.3.0
+numpy==1.21.3
+Pillow==8.4.0
+
+#make sure that visual studio for desktop development and c++ is installed
+#also install dlib, but installing face_recognition still installs it
